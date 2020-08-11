@@ -1,0 +1,26 @@
+{
+  "name": "easy-random.js",
+  "version": "1.0.0",
+  "description": "easy-random.js est un module NPM simplifiant la génération de nombre aléatoire.",
+  "main": "easy-random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyfos/easy-random.js.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generation",
+    "aleatoire",
+    "nyfos"
+  ],
+  "author": "Nyfos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyfos/easy-random.js/issues"
+  },
+  "homepage": "https://github.com/Nyfos/easy-random.js#readme"
+}
