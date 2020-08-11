@@ -1,8 +1,8 @@
 {
-  "name": "easy-random.js",
+  "name": "easy-randomer",
   "version": "1.0.0",
-  "description": "easy-random.js est un module NPM simplifiant la génération de nombre aléatoire.",
-  "main": "easy-random.js",
+  "description": "easy-randomer est un module NPM simplifiant la génération de nombre aléatoire.",
+  "main": "easy-randomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
